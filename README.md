@@ -32,42 +32,37 @@ If i publish this website u can go o carebank.com then register yourself and aft
 ## Proof of work(Screenshots) 🎥
 
 - [Project Report](https://drive.google.com/file/d/1AaTXuqwondg2TDCogcEf2Vt0fLWOLEPR/view?usp=sharing)
-- a link to screen recording of your solution.
+- [Project Presentation](https://drive.google.com/file/d/1jpcHOUfOdP8GA3eLEi11gnY6iKQ-_LNV/view?usp=sharing)
+- [Project Video](will be uploaded soon)
 
 ## Other optional sections you want to write about 📝
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut bibendum lectus vel urna auctor elementum. Mauris maximus feugiat odio sit amet eleifend. Suspendisse a justo purus.
-
-## File structure 📂
-
-```bash
-   run `tree . /f`(for windows) command in the parent to print the file structure, and paste it here.
-   for linux, run `tree . ` and paste it here.
-
-   E.g.
-    /   .gitignore
-    │   README.md
-    │
-    ├───src
-    │       README.md
-    │
-    └───test
-            README.md
-
-```
+This project is just gives the basic functionality and baisc securities.
+As it is college level project, we didn't focus about security section, but we can do it in future enhances of the project.
 
 ## Installation & Usage 📦
 
-Provide steps to install or use your project.
+Download the all files of our project(including Images), then set the path according to your folder path of your computer(in all files).
+then download xampp and set all the path and set mail path also(if you wants to send mail).
+then create database in your localhost.
+after all steps project will run successfully.
+DM me for any query - Shashank Shah(https://shashank-shah.mystrikingly.com/)
+XAMPP set up(https://www.youtube.com/watch?v=at19OmH2Bg4&list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR&index=1&t=994s)
 
 ## Expected Outcomes 💯
 
-Compare your current outcomes with what you expected it do.
+We have completed this project in approx 3/4 months, as we have imagined we all achieved it except notification.
+we didn't completed the notification section and also some user functionality.
+we also didn't done mobile otp verification.
 
 ## Future work 🤔
 
-Things to improve upon in future & how you would scale it up.
+In future we can add some user functionality like account details, basic banking fascilities.
+we can also add Mobile OTP verification and notification also.
 
 ## Reference 📖
 
-List of references used in your solution.
+List of references used in our solution.
+Learn PHP(https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR)
+Bootsrap(https://getbootstrap.com/)
+and many more websites like w3school, GeeksforGeeks and many YouTube Videos.
