@@ -20,10 +20,10 @@ Our Project contains Basic banking facilities and money transfer to another regi
 ## Tech Stack 📚
 
 To make this project fully functionally we have used some software, some programming language as well as some tools and some external websites also.
-<b>Front End</b> - HTML, CSS, JavaScript
-<b>Back End</b> - PHP
-<b>Database Connectivity</b> - MySQL
-<b>Tools/Hardwares/Softwares</b> - XAMPP Server for database connectivity, VS Code for code editor and bootstrap for Some CSS and Notification
+<b>Front End</b> - HTML, CSS, JavaScript</br>
+<b>Back End</b> - PHP</br>
+<b>Database Connectivity</b> - MySQL</br>
+<b>Tools/Hardwares/Softwares</b> - XAMPP Server for database connectivity, VS Code for code editor and bootstrap for Some CSS and Notification</br>
 
 ## Solution 💡
 
