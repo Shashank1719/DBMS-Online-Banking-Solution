@@ -42,27 +42,27 @@ As it is college level project, we didn't focus about security section, but we c
 
 ## Installation & Usage 📦
 
-Download the all files of our project(including Images), then set the path according to your folder path of your computer(in all files).
-then download xampp and set all the path and set mail path also(if you wants to send mail).
-then create database in your localhost.
-after all steps project will run successfully.
-DM me for any query - Shashank Shah(https://shashank-shah.mystrikingly.com/)
+Download the all files of our project(including Images), then set the path according to your folder path of your computer(in all files).</br>
+then download xampp and set all the path and set mail path also(if you wants to send mail).</br>
+then create database in your localhost.</br>
+after all steps project will run successfully.</br>
+DM me for any query - Shashank Shah(https://shashank-shah.mystrikingly.com/)</br>
 XAMPP set up(https://www.youtube.com/watch?v=at19OmH2Bg4&list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR&index=1&t=994s)
 
 ## Expected Outcomes 💯
 
-We have completed this project in approx 3/4 months, as we have imagined we all achieved it except notification.
-we didn't completed the notification section and also some user functionality.
-we also didn't done mobile otp verification.
+We have completed this project in approx 3/4 months, as we have imagined we all achieved it except notification.</br>
+we didn't completed the notification section and also some user functionality.</br>
+we also didn't done mobile otp verification.</br>
 
 ## Future work 🤔
 
-In future we can add some user functionality like account details, basic banking fascilities.
+In future we can add some user functionality like account details, basic banking fascilities.</br>
 we can also add Mobile OTP verification and notification also.
 
 ## Reference 📖
 
-List of references used in our solution.
-Learn PHP(https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR)
-Bootsrap(https://getbootstrap.com/)
+List of references used in our solution.</br>
+Learn PHP(https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR)</br>
+Bootsrap(https://getbootstrap.com/)</br>
 and many more websites like w3school, GeeksforGeeks and many YouTube Videos.
