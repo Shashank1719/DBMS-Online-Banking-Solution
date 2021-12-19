@@ -1,18 +1,15 @@
-# //🚀ENTER YOUR PROJECT TITLE HERE🚀//
-
+# CARE BANK - Online DBMS management System for Banking solution
 ```bash
 THIS BLOCK IS MEANT TO EXPLAIN THE FILE STRUCTURE ONLY REMOVE ME INITAL COMMIT!
 \
-├───docs : (optional) Here you can put your documentation.
-├───src  : Put your source code here.
-└───test : (optional) Your testing scripts goes here.
+├───docs : Contains All Code files and Images.
 ```
 
 Some introduction to your solution/project.
 
 Team Members:
 
-- [Member#1's Github](https://github.com/{team_member_username})
+- [Riya Shah](https://github.com/Riya1308)
 - [Member#2's Github](https://github.com/{team_member_username})
 
 ## Problem statement 🐾
