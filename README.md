@@ -25,10 +25,6 @@ To make this project fully functionally we have used some software, some program
 <b>Database Connectivity</b> - MySQL</br>
 <b>Tools/Hardwares/Softwares</b> - XAMPP Server for database connectivity, VS Code for code editor and bootstrap for Some CSS and Notification</br>
 
-## Solution 💡
-
-If i publish this website u can go o carebank.com then register yourself and after activate your account by our manager you can login and verify your email. then you can check your account details and also transfer money to your relative if he/she using this plateform.
-
 ## Proof of work(Screenshots) 🎥
 
 - [Project Report](https://drive.google.com/file/d/1AaTXuqwondg2TDCogcEf2Vt0fLWOLEPR/view?usp=sharing)
