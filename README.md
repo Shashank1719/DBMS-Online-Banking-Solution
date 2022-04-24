@@ -43,7 +43,7 @@ Download the all files of our project(including Images), then set the path accor
 then download xampp and set all the path and set mail path also(if you wants to send mail).</br>
 then create database in your localhost.</br>
 after all steps project will run successfully.</br>
-DM me for any query - [Shashank Shah](https://shashank-shah.mystrikingly.com/)</br>
+DM me for any query - [Shashank Shah](https://20dcs116.wixsite.com/shashank-shah)</br>
 [XAMPP set up](https://www.youtube.com/watch?v=at19OmH2Bg4&list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR&index=1&t=994s)
 
 ## Expected Outcomes 💯
